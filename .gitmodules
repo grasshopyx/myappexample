@@ -1,0 +1,3 @@
+[submodule "SEGS"]
+	path = SEGS
+	url = https://github.com/Mooonside/SEGS
